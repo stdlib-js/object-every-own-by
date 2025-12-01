@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-26)
+## Unreleased (2025-12-01)
 
 <section class="features">
 
@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`0b449a3`](https://github.com/stdlib-js/stdlib/commit/0b449a38d1f623ac56b4cec10626cd022c299c87) - **refactor:** update paths _(by Neeraj Pathak)_
+-   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`9764a3e`](https://github.com/stdlib-js/stdlib/commit/9764a3e691011e9f2d957b51fc0b5766b1df9989) - **feat:** add `object/every-own-by` _(by Neeraj Pathak)_
 
 </details>
@@ -34,9 +36,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Neeraj Pathak
+-   Philipp Burckhardt
 
 </section>
 
